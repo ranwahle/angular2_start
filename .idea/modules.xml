@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../orders/.idea/angular2_start.iml" filepath="$PROJECT_DIR$/../orders/.idea/angular2_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/angular2_start.iml" filepath="$PROJECT_DIR$/.idea/angular2_start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/orders.iml" filepath="$PROJECT_DIR$/.idea/orders.iml" />
     </modules>
   </component>
 </project>
