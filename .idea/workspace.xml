@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b59db51-c3b4-420d-9bb5-c391035196c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/orders_node_modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/quickstart" afterPath="$PROJECT_DIR$/quickstart" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="angular2_start.iws" />
@@ -122,8 +120,8 @@
       <file leaf-file-name="orderDetailComponent.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/angular1/app/directives/orderDetailComponent.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8238748">
-              <caret line="44" column="0" selection-start-line="37" selection-start-column="9" selection-end-line="44" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.1780822">
+              <caret line="22" column="84" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="84" />
               <folding>
                 <marker date="1450755112000" expanded="true" signature="1104:2246" placeholder="..." />
                 <marker date="1450755112000" expanded="true" signature="1211:1308" placeholder="..." />
@@ -334,6 +332,321 @@
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/angular2.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/angular2.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/change_detection.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/change_detection.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/core.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/core.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/di.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/di.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/directives.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/directives.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/forms.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/forms.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/abstract_change_detector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/change_detection_jit_generator.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/change_detection_jit_generator.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/change_detection_util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/change_detection_util.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/coalesce.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/dynamic_change_detector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/dynamic_change_detector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/exceptions.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/interfaces.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/interfaces.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/ast.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/ast.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/lexer.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/lexer.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/parser.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/keyvalue_changes.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/null_pipe.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/pipe.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/pipe.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/pipe_registry.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/proto_change_detector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/proto_change_detector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/proto_record.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/proto_record.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/annotations.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/annotations.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/template.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/visibility.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/application.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/application.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/binding_propagation_config.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/compiler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/compiler.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/component_url_mapper.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/component_url_mapper.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/directive_metadata.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/directive_metadata_reader.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/directive_metadata_reader.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/element_binder.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/element_binder.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/element_injector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/element_injector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/interfaces.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/compile_control.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/compile_element.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/compile_element.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/compile_pipeline.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/compile_step.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/compile_step.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/default_steps.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/default_steps.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/directive_parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/directive_parser.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/element_binder_builder.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/element_binder_builder.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/element_binding_marker.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/element_binding_marker.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/property_binding_parser.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/property_binding_parser.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/proto_element_injector_builder.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/proto_view_builder.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/proto_view_builder.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/text_interpolation_parser.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/view_splitter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/view_splitter.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/selector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/selector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_emulation/content_tag.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_emulation/content_tag.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_emulation/light_dom.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_emulation/light_dom.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_emulation/shadow_css.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_emulation/shadow_css.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_strategy.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/shadow_dom_strategy.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/style_inliner.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/style_inliner.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/style_url_resolver.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/style_url_resolver.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/template_loader.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/template_loader.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/template_resolver.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/template_resolver.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/url_resolver.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/url_resolver.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/view.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/view.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/view_container.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/view_container.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/view_pool.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/xhr/xhr.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/xhr/xhr_impl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/xhr/xhr_impl.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/dom/element.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/events/event_manager.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/events/hammer_common.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/events/hammer_gestures.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/exception_handler.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/exception_handler.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/life_cycle/life_cycle.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/life_cycle/life_cycle.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/zone/vm_turn_zone.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/annotations.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/annotations.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/binding.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/binding.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/exceptions.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/injector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/injector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/key.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/key.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/di/opaque_token.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/if.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/non_bindable.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/switch.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/dom/browser_adapter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/dom/browser_adapter.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/dom/dom_adapter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/dom/dom_adapter.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/async.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/browser.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/collection.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/collection.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/lang.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/lang.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/facade/math.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/directives.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/directives.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/model.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/model.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/validator_directives.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/validator_directives.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/validators.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/validators.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/mock/template_resolver_mock.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/mock/xhr_mock.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/reflection/reflection.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/reflection/reflection_capabilities.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/reflection/reflector.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/reflection/types.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/benchmark_util.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/test_lib.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/test_lib.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/utils.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/test_lib.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/rtts_assert/rtts_assert.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/rtts_assert/src/rtts_assert.js.map</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/LICENSE</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/annotations.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/annotations.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/locals.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/locals.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/iterable_changes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/iterable_changes.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/di.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/di.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/css_processor.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/css_processor.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/util.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/private_component_loader.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/private_component_loader.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/private_component_location.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/private_component_location.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/for.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/for.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/dom/generic_browser_adapter.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/dom/generic_browser_adapter.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/form_builder.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/forms/form_builder.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/services/title.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/services/title.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/e2e_util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/e2e_util.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/perf_util.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/perf_util.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/test_injector.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/test_lib/test_injector.js.map</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/context_with_variable_bindings.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/parser/context_with_variable_bindings.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/array_changes.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/change_detection/pipes/array_changes.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/events.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/annotations/events.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/resolve_css.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/resolve_css.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/shim_shadow_dom.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/core/compiler/pipeline/shim_shadow_dom.js.map</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/foreach.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/quickstart/angular2/src/directives/foreach.js.map</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/angular2_start/angular2/index.html">
       <method />
@@ -425,7 +738,13 @@
       <option name="project" value="LOCAL" />
       <updated>1450779038787</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1450779102986</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1450779102986</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -439,14 +758,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript Compiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329602" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -904,8 +1223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/angular1/app/directives/orderDetailComponent.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8238748">
-          <caret line="44" column="0" selection-start-line="37" selection-start-column="9" selection-end-line="44" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.1780822">
+          <caret line="22" column="84" selection-start-line="22" selection-start-column="77" selection-end-line="22" selection-end-column="84" />
           <folding>
             <marker date="1450755112000" expanded="true" signature="1104:2246" placeholder="..." />
             <marker date="1450755112000" expanded="true" signature="1211:1308" placeholder="..." />
